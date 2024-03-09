@@ -1,0 +1,3 @@
+.post-type-wd_types .error, .post-type-wd_group .error, .post-type-wd_meta .error, .post-type-wd_taxonomies .error{
+	color:red;
+}
