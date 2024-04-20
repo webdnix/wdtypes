@@ -21,7 +21,7 @@ WD Post Types Taxonomy Creator allows you to easily create and edit custom taxon
 
 **How it works**
 
-Watch video on youtube https://www.youtube.com/watch?v=UcZF2ab_NRQ
+Watch the video on YouTube https://www.youtube.com/watch?v=UcZF2ab_NRQ
 
 
 **Types of custom fields**
@@ -49,10 +49,10 @@ Create/edit custom template for post type view.
 
 **You can enable some of our included components to extend your WordPress site even further:**
 * Templates – Use our template engine to create templates that can be handed off to clients for care-free management
-* Shortcode - Use shortcode create for any meta, taxonomies and custom post data.
+* Shortcode - Use shortcode create for any meta, taxonomies, and custom post data.
 
 **WHY CHOOSE CUSTOM POST TYPES PLUGIN**
 “WD Post Types” is free and will save you time, and therefore money!
 You can create post types, taxonomies, custom field templates, and shortcodes easily in 5 minutes.
 This plugin is written using only functions included in the WordPress core, so it does not reduce the performance of your website and does not cause compatibility problems.
-You can use the “WD Post Types” plugin with any theme builder, with any theme and with any plugin. It’s perfect!
+You can use the “WD Post Types” plugin with any theme builder, with any theme, and with any plugin. It’s perfect!
