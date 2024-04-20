@@ -21,7 +21,7 @@ WD Post Types Taxonomy Creator allows you to easily create and edit custom taxon
 
 **How it works**
 
-[youtube https://www.youtube.com/watch?v=UcZF2ab_NRQ]
+Watch video on youtube https://www.youtube.com/watch?v=UcZF2ab_NRQ
 
 
 **Types of custom fields**
